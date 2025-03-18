@@ -1,0 +1,7 @@
+###Config file: points to file locations for storing info
+llp_id: 35
+llp_type: DarkScalar
+SS_path: "/usera/rcb72/Documents/Higgs_Dark_Scalar/SimulationSwarms"                   ###location of Events files
+scanfile: "/usera/rcb72/Documents/Higgs_Dark_Scalar/run_dir_DS/samples_to_process.csv" ###location of CSV (containing data from read_scans_to_table.py)
+selection_output_path: "/usera/rcb72/Documents/Higgs_Dark_Scalar/Selection/output"     ###location to save output files (for apply_selections...)
+jobscripts_path: "/usera/rcb72/Documents/Higgs_Dark_Scalar/MG_Inputs"                  ###location of jobscripts
